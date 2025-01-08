@@ -13,13 +13,13 @@ import firebase from "firebase/app";
 import "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA1bpO3q9DzOLL_Qkv3XrFOCNa0eExxWVQ",
-  authDomain: "mercadosapp-0107n.firebaseapp.com",
-  projectId: "mercadosapp-0107n",
-  storageBucket: "mercadosapp-0107n.appspot.com",
-  messagingSenderId: "228986231933",
-  appId: "1:228986231933:web:48ab420817c782fb816514",
-  measurementId: "G-3DTJ3Q4H1D",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 // Initialize Firebase
